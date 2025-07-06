@@ -1,4 +1,4 @@
-\# 顔認識アプリ
+\# 顔認識アプリ（Face Recognition App）
 
 
 
@@ -12,7 +12,7 @@
 
 
 
-\## 📦 ファイル構成
+\## 📂 ファイル構成
 
 
 
@@ -30,11 +30,7 @@
 
 
 
-\## 🚀 使い方
-
-
-
-\### 1. 必要なライブラリのインストール
+\## 🚀 実行方法
 
 
 
@@ -43,6 +39,4 @@
 pip install opencv-python face\_recognition pillow
 
 python app.py
-
-
 
